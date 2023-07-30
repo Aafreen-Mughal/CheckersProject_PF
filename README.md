@@ -1,1 +1,2 @@
 # CheckersProject_PF
+It is an interactive two multiplayer game. The main idea of checkers is to capture all of your opponent pieces. To start the game, the player with symbol ‘x’ goes first and the player with symbol ‘o’ goes second. Players can move their pieces only in diagonal direction. It has 8 rows and 8 columns, so the dimension of board is 8x8 with alphabets at its columns and number at its rows. Each player has 12 pieces. This game will continue till the pieces of one is completely disappeared and in the end of the game it will display the name of the winner.
